@@ -18,12 +18,12 @@ To set up the Packet Sniffer Tool, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/packet-sniffer-tool.git
+   git clone https://github.com/ERap2022/PRODIGY_CS_05.git
    ```
 
 2. **Navigate to the Project Directory**:
    ```bash
-   cd packet-sniffer-tool
+   cd PRODIGY_CS_05
    ```
 
 3. **Install Required Python Packages**:
@@ -37,7 +37,7 @@ To set up the Packet Sniffer Tool, follow these steps:
 1. **Run the Application**:
    Launch the Packet Sniffer Tool by running the following command:
    ```bash
-   python src/packet_sniffer.py
+   python Sniffer.py
    ```
 
 2. **Interact with the GUI**:
